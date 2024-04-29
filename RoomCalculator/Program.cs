@@ -56,7 +56,8 @@ else if (area > 250 && area < 650)
 {
     Console.WriteLine("This is a large sized room.");
 }
+*/
 
 // goodbye
 Console.WriteLine("Thanks for using the Room Calculator Generator!");
-*/
+
