@@ -1,0 +1,14 @@
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.AssemblyInfo.cs
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\bin\Debug\net8.0\RoomCalculator.exe
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\bin\Debug\net8.0\RoomCalculator.deps.json
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\bin\Debug\net8.0\RoomCalculator.runtimeconfig.json
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\bin\Debug\net8.0\RoomCalculator.dll
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\bin\Debug\net8.0\RoomCalculator.pdb
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.dll
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\refint\RoomCalculator.dll
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.pdb
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.genruntimeconfig.cache
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\ref\RoomCalculator.dll
