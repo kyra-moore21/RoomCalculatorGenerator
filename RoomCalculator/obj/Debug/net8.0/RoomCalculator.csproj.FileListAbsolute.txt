@@ -12,3 +12,4 @@ C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\refin
 C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.pdb
 C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.genruntimeconfig.cache
 C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\ref\RoomCalculator.dll
+C:\Users\kyram\source\repos\RoomCalculator\RoomCalculator\obj\Debug\net8.0\RoomCalculator.sourcelink.json

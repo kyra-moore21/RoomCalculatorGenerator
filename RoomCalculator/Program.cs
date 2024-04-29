@@ -30,8 +30,22 @@ Console.WriteLine($"Perimeter: {perimeter}");
 Console.WriteLine($"Volume: {volume}");
 Console.WriteLine($"Surface Area: {surfaceArea}");
 
-// if statement for room size
-if (area <= 250)
+// switch statement for room size
+switch (area)
+{
+    case <= 250:
+        Console.WriteLine("This is a small sized room.");
+        break;
+    case > 250 and < 650:
+            Console.WriteLine("This is a medium sized room.");
+        break;
+    case >= 650:
+        Console.WriteLine("This is a large sized room.");
+        break;
+}
+
+/* old if statement
+ * (area <= 250)
 {
     Console.WriteLine("This is a small sized room.");
 }
@@ -45,3 +59,4 @@ else if (area > 250 && area < 650)
 
 // goodbye
 Console.WriteLine("Thanks for using the Room Calculator Generator!");
+*/
